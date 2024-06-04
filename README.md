@@ -26,7 +26,6 @@
 * LLAMA
 * MolTransformerEmbeddings
 * RegNet (MLP)
-* WineNet (MLP)
 * Сведение задачи к классификации
 * Padelpy descriptors (использование максимального количества дескрипторов ~2500)
 * KAN
