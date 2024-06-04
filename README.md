@@ -8,7 +8,7 @@
 ### Материалы
 
 **Исследование данных**, построение графиков распределения, графиков предполагаемых зависимостей в данных
-!(research.ipynb)[research.ipynb]
+[research.ipynb](research.ipynb)
 
 **Основное решение**: 
 * Предобработка данных
@@ -21,7 +21,7 @@
 * Реализация архитектуры DeepIC50 на torch, https://github.com/labnams/DeepIC50
 * Проба KAN
 
-![baseline.ipynb](baseline.ipynb)
+[baseline.ipynb](baseline.ipynb)
 
 **Эксперименты с получением эмбеддингов и использование их для предсказаний**:
 * LLAMA
@@ -32,15 +32,15 @@
 * Padelpy descriptors (использование максимального количества дескрипторов ~2500)
 * KAN
 
-![ic50_1.ipynb](ic50_1.ipynb)
+[ic50_1.ipynb](ic50_1.ipynb)
 
 **CHEMBert**:
 
-![Untitled3.ipynb](Untitled3.ipynb)
+[Untitled3.ipynb](Untitled3.ipynb)
 
 **Ещё некоторые эксперименты**:
 
-![ic50_3.ipynb](ic50_3.ipynb)
+[ic50_3.ipynb](ic50_3.ipynb)
 
 
 ### Результаты, выводы
